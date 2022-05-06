@@ -1,4 +1,4 @@
-package P3.test;
+package P3;
 
 import P3.FriendshipGraph;
 import P3.Person;
